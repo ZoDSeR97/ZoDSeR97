@@ -45,6 +45,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodser97&layout=compact&theme=dracula&hide=html,css">
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zodser97&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=27" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=zodser97&show_icons=true&theme=dracula&line_height=27" height="180">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zodser97&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=27" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=zodser97&show_icons=true&theme=dracula&line_height=27" height="170">
 </p>
