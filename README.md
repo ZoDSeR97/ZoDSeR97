@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3"/>
-    <img src="https://img.shields.io/badge/-tailwind-072A6C?style=for-the-badge&logo=tailwindcss"/>
+    <img src="https://img.shields.io/badge/-tailwindcss-072A6C?style=for-the-badge&logo=tailwindcss"/>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
     <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
