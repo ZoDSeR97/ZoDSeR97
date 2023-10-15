@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </p>
 <h2 align="center">Github Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodser97&layout=compact&theme=dracula&hide=css,html">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodser97&layout=compact&theme=dracula&hide=c,css,html">
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zodser97&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=27" height="170"/>
