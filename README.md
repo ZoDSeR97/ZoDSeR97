@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-<img align="right" src="https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif" height="450">
+<img align="right" src="https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif" height="440px">
 <h2 align="center">Technologies</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,9 +42,5 @@ Here are some ideas to get you started:
 </p>
 <h2 align="center">Github Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zodser97&layout=compact&theme=dracula&hide=scss,css,html">
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zodser97&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=27" height="170"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=zodser97&show_icons=true&theme=dracula" height="170">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zodser97&layout=compact&theme=radical&hide=scss,css,html"/>
 </p>
